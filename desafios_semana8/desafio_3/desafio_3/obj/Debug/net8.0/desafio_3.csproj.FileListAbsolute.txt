@@ -1,0 +1,14 @@
+C:\Users\lechu\OneDrive\Escritorio\desafios_semana8\desafio_3\desafio_3\bin\Debug\net8.0\desafio_3.exe
+C:\Users\lechu\OneDrive\Escritorio\desafios_semana8\desafio_3\desafio_3\bin\Debug\net8.0\desafio_3.deps.json
+C:\Users\lechu\OneDrive\Escritorio\desafios_semana8\desafio_3\desafio_3\bin\Debug\net8.0\desafio_3.runtimeconfig.json
+C:\Users\lechu\OneDrive\Escritorio\desafios_semana8\desafio_3\desafio_3\bin\Debug\net8.0\desafio_3.dll
+C:\Users\lechu\OneDrive\Escritorio\desafios_semana8\desafio_3\desafio_3\bin\Debug\net8.0\desafio_3.pdb
+C:\Users\lechu\OneDrive\Escritorio\desafios_semana8\desafio_3\desafio_3\obj\Debug\net8.0\desafio_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lechu\OneDrive\Escritorio\desafios_semana8\desafio_3\desafio_3\obj\Debug\net8.0\desafio_3.AssemblyInfoInputs.cache
+C:\Users\lechu\OneDrive\Escritorio\desafios_semana8\desafio_3\desafio_3\obj\Debug\net8.0\desafio_3.AssemblyInfo.cs
+C:\Users\lechu\OneDrive\Escritorio\desafios_semana8\desafio_3\desafio_3\obj\Debug\net8.0\desafio_3.csproj.CoreCompileInputs.cache
+C:\Users\lechu\OneDrive\Escritorio\desafios_semana8\desafio_3\desafio_3\obj\Debug\net8.0\desafio_3.dll
+C:\Users\lechu\OneDrive\Escritorio\desafios_semana8\desafio_3\desafio_3\obj\Debug\net8.0\refint\desafio_3.dll
+C:\Users\lechu\OneDrive\Escritorio\desafios_semana8\desafio_3\desafio_3\obj\Debug\net8.0\desafio_3.pdb
+C:\Users\lechu\OneDrive\Escritorio\desafios_semana8\desafio_3\desafio_3\obj\Debug\net8.0\desafio_3.genruntimeconfig.cache
+C:\Users\lechu\OneDrive\Escritorio\desafios_semana8\desafio_3\desafio_3\obj\Debug\net8.0\ref\desafio_3.dll
